@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@decentralized-identity/ion-tools": "^0.1.0"
+  }
+}
